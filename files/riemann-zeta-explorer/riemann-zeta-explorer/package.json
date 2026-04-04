@@ -1,0 +1,21 @@
+{
+  "name": "riemann-zeta-explorer",
+  "version": "1.0.0",
+  "description": "Interactive visualization of the Riemann Zeta Function — exploring zeros on the critical line, their connection to prime distribution, random matrix theory, and applications to cryptographic engineering.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@vitejs/plugin-react": "^4.2.0",
+    "vite": "^5.0.0"
+  }
+}
