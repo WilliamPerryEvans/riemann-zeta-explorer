@@ -2,6 +2,8 @@
 
 An interactive visualization of the Riemann Zeta Function, built to explore the deepest unsolved problem in mathematics and its practical connections to cryptography, signal processing, and location-based encryption.
 
+See it live here:https://williamperryevans.github.io/riemann-zeta-explorer/
+
 ## What Is This?
 
 The **Riemann Hypothesis** (1859) states that all non-trivial zeros of the zeta function sit on a single line in the complex plane — the "critical line" where the real part equals ½. Over 10 trillion zeros have been verified computationally, and every single one is on the line. Nobody has proven *why*.
