@@ -2,7 +2,7 @@
 
 An interactive visualization of the Riemann Zeta Function, built to explore the deepest unsolved problem in mathematics and its practical connections to cryptography, signal processing, and location-based encryption.
 
-See it live here:https://williamperryevans.github.io/riemann-zeta-explorer/
+Interact with the ζ(s) Explorer here: https://williamperryevans.github.io/riemann-zeta-explorer
 
 ## What Is This?
 
